@@ -1,0 +1,6 @@
+/notebooks/lightning_logs
+/data
+.idea/
+*.gz
+*.pyc
+*ubyte
